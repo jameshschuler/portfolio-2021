@@ -90,6 +90,14 @@ body {
 			#more-content {
 				display: none;
 				margin-top: 1rem;
+
+				#technologies {
+					margin-left: 2rem;
+
+					li {
+						padding: 0.25rem 0;
+					}
+				}
 			}
 
 			#toggle-more-btn {
