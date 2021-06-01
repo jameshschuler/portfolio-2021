@@ -1,6 +1,6 @@
 import './style.scss';
 
-const app = document.querySelector<HTMLDivElement>( '#app' )!
+// const app = document.querySelector<HTMLDivElement>( '#app' )!
 
 const btn = document.getElementById( 'toggle-more-btn' )!;
 const moreContent = document.getElementById( 'more-content' )!;
